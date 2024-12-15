@@ -1,4 +1,4 @@
-## Hi there 👋
+## Exios Solutions
 
 <!--
 
@@ -10,3 +10,14 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+> Exios Solutions is the place for your FiveM scripts, we have worked on countless servers within the FiveM community as listed below:
+
+> - Future Roleplay
+> - Today Roleplay
+> - Westkust Roleplay
+> - Amersfoort Roleplay
+
+We know how to handle a FiveM server and deliver the best results around the board within FiveM, we offer the best high-quality scripts within the FiveM community and make sure you get the most customizability within our scripts-store.
+
+Discord: https://discord.gg/exios
