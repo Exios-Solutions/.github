@@ -13,10 +13,11 @@
 
 > Exios Solutions is the place for your FiveM scripts, we have worked on countless servers within the FiveM community as listed below:
 
-> - Future Roleplay
-> - Today Roleplay
-> - Westkust Roleplay
-> - Amersfoort Roleplay
+> - Future Roleplay - Lead Development
+> - Today Roleplay - Development
+> - Westkust Roleplay - Development
+> - Amersfoort Roleplay - Lead Development
+> - Limburg Roleplay - Lead Development
 
 We know how to handle a FiveM server and deliver the best results around the board within FiveM, we offer the best high-quality scripts within the FiveM community and make sure you get the most customizability within our scripts-store.
 
